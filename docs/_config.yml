@@ -23,7 +23,7 @@ email: darkfly0213@proton.me
 description: >- # this means to ignore newlines until "baseurl:"
   This github pages will serve as a repository for CTF challenges that I create, and other things that I plan on doing down the line.
 baseurl: "/docs/" # the subpath of your site, e.g. /blog
-url: "https://darkfly0213.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "https://darkfly0213.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Darkfly0213
 github_username:  darkfly0213
 
